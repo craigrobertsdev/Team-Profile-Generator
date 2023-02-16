@@ -1,0 +1,14 @@
+{
+  "name": "10---team-profile-generator",
+  "version": "1.0.0",
+  "description": "A command-line tool to generate a team roster web page based on user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Craig Roberts",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}

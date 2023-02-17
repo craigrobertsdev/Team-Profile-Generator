@@ -4,7 +4,7 @@
   "description": "A command-line tool to generate a team roster web page based on user input",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "author": "Craig Roberts",
   "license": "MIT",

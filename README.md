@@ -23,6 +23,10 @@
   <img src="https://github.com/craigrobertsdev/blob/main/assets/screenshot.jpg">
   </p>
 
+  <p align="center">
+  <img src="https://github.com/craigrobertsdev/blob/main/assets/screenshot2.jpg">
+  </p>
+
   ## Contributing
   If you would like to make suggestions about a different style for the employee cards or suggest further information that can be added to each employee card, fork the repo and submit a pull request for review.
   

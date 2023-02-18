@@ -20,18 +20,21 @@ const addManager = {
   type: "input",
   message: "What is their office number?",
   name: "office",
+  validate: checkValue,
 };
 
 const addEngineer = {
   type: "input",
   message: "What is their GitHub profile? (https://github.com/{name})",
   name: "github",
+  validate: checkValue,
 };
 
 const addIntern = {
   type: "input",
   message: "What school do they go to?",
   name: "school",
+  validate: checkValue,
 };
 
 // Repeatedly goes through a loop of question asking, stores the user input as the correct type of employee
@@ -142,6 +145,12 @@ function checkEmail(email) {
     return true;
 
   return "Enter a valid email address.";
+}
+
+function checkValue(value) {
+  if (!value) return "Please enter a value";
+
+  return true;
 }
 
 init();

@@ -20,11 +20,11 @@
   [Node.js](https://nodejs.org/en/) is required to be installed.<br><br>Clone this repo and open a command line terminal in that folder. Enter `node index` to begin the program.<br><br>Follow the prompts to add all of your team members then when you are done, an HTML document and associated CSS file will be generated and stored in `/dist` within your current directory.
   
   <p align="center">
-  <img src="https://github.com/craigrobertsdev/blob/main/assets/screenshot.jpg">
+  <img src="https://github.com/craigrobertsdev/Team-Profile-Generator/blob/main/assets/screenshot.jpg">
   </p>
 
   <p align="center">
-  <img src="https://github.com/craigrobertsdev/blob/main/assets/screenshot2.jpg">
+  <img src="https://github.com/craigrobertsdev/Team-Profile-Generator/blob/main/assets/screenshot2.jpg">
   </p>
 
   ## Contributing

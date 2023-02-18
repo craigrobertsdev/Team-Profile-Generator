@@ -20,12 +20,14 @@
   [Node.js](https://nodejs.org/en/) is required to be installed.<br><br>Clone this repo and open a command line terminal in that folder. Enter `node index` to begin the program.<br><br>Follow the prompts to add all of your team members then when you are done, an HTML document and associated CSS file will be generated and stored in `/dist` within your current directory.
   
   <p align="center">
-  <img src="https://github.com/craigrobertsdev/blob/main/assets/screenshot.jpg">
+  <img src="https://github.com/craigrobertsdev/Team-Profile-Generator/blob/main/assets/screenshot.jpg">
   </p>
 
   <p align="center">
-  <img src="https://github.com/craigrobertsdev/blob/main/assets/screenshot2.jpg">
+  <img src="https://github.com/craigrobertsdev/Team-Profile-Generator/blob/main/assets/screenshot2.jpg">
   </p>
+  
+  A video demonstration of the application being used can be found [here](https://drive.google.com/file/d/1zIT13kcmpASsXv385aZtvXL3PLqTB-1u/view?usp=share_link).
 
   ## Contributing
   If you would like to make suggestions about a different style for the employee cards or suggest further information that can be added to each employee card, fork the repo and submit a pull request for review.
